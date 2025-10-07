@@ -1,0 +1,148 @@
+{
+  "title": "Pickle relish",
+  "description": "Explore the fascinating history and promising future of pickle relish, from its humble beginnings to its modern variations and potential innovations.",
+  "modules": [
+    {
+      "title": "Introduction to Pickle Relish",
+      "description": "An overview of pickle relish, its definition, purpose, and cultural significance.",
+      "topics": [
+        { "title": "Overview", "description": "Course introduction and objectives.", "path": "README.md", "type": "instruction", "state": "stable" },
+        { "title": "What is Pickle Relish?", "description": "Defining pickle relish and differentiating it from other condiments.", "path": "instruction/what-is-pickle-relish/what-is-pickle-relish.md", "type": "instruction", "state": "stub" },
+        { "title": "Purpose and Uses of Relish", "description": "Exploring the various culinary applications of pickle relish.", "path": "instruction/purpose-and-uses-of-relish/purpose-and-uses-of-relish.md", "type": "instruction", "state": "stub" },
+        { "title": "Cultural Significance", "description": "Examining the role of pickle relish in different cultures and cuisines.", "path": "instruction/cultural-significance/cultural-significance.md", "type": "instruction", "state": "stub" },
+        { "title": "Basic Ingredients", "description": "A look at the foundational components of pickle relish.", "path": "instruction/basic-ingredients/basic-ingredients.md", "type": "instruction", "state": "stub" },
+        { "title": "Flavor Profiles", "description": "Understanding the diverse flavor profiles achievable in pickle relish.", "path": "instruction/flavor-profiles/flavor-profiles.md", "type": "instruction", "state": "stub" },
+        { "title": "Relish vs. Chutney", "description": "Differentiating relish from chutney and other similar condiments.", "path": "instruction/relish-vs-chutney/relish-vs-chutney.md", "type": "instruction", "state": "stub" },
+        { "title": "Regional Variations", "description": "Exploring regional differences in pickle relish recipes and preparation.", "path": "instruction/regional-variations/regional-variations.md", "type": "instruction", "state": "stub" },
+        { "title": "Common Additives", "description": "Discussing common additives and preservatives used in commercial pickle relish.", "path": "instruction/common-additives/common-additives.md", "type": "instruction", "state": "stub" },
+        { "title": "Health Considerations", "description": "Examining the nutritional value and potential health impacts of pickle relish.", "path": "instruction/health-considerations/health-considerations.md", "type": "instruction", "state": "stub" },
+        { "title": "Module 1 Summary", "description": "Review of Key Concepts in Module 1", "path": "instruction/module-1-summary/module-1-summary.md", "type": "instruction", "state": "stub" }
+      ]
+    },
+    {
+      "title": "Historical Development of Pickle Relish",
+      "description": "Tracing the origins and evolution of pickle relish throughout history.",
+      "topics": [
+        { "title": "Early Pickling Methods", "description": "Exploring ancient pickling techniques that predate pickle relish.", "path": "instruction/early-pickling-methods/early-pickling-methods.md", "type": "instruction", "state": "stub" },
+        { "title": "The Rise of Condiments", "description": "Contextualizing the development of pickle relish within the broader history of condiments.", "path": "instruction/the-rise-of-condiments/the-rise-of-condiments.md", "type": "instruction", "state": "stub" },
+        { "title": "18th and 19th Century Relishes", "description": "Examining early recipes and variations of pickle relish from the 18th and 19th centuries.", "path": "instruction/18th-and-19th-century-relishes/18th-and-19th-century-relishes.md", "type": "instruction", "state": "stub" },
+        { "title": "Industrial Revolution Impact", "description": "Analyzing how industrialization affected the production and distribution of pickle relish.", "path": "instruction/industrial-revolution-impact/industrial-revolution-impact.md", "type": "instruction", "state": "stub" },
+        { "title": "The Role of Canning", "description": "Exploring the significance of canning in preserving and popularizing pickle relish.", "path": "instruction/the-role-of-canning/the-role-of-canning.md", "type": "instruction", "state": "stub" },
+        { "title": "World War Era", "description": "Investigating the impact of wartime rationing and food preservation efforts on pickle relish.", "path": "instruction/world-war-era/world-war-era.md", "type": "instruction", "state": "stub" },
+        { "title": "Post-War Popularity", "description": "Analyzing the growth in popularity of pickle relish after World War II.", "path": "instruction/post-war-popularity/post-war-popularity.md", "type": "instruction", "state": "stub" },
+        { "title": "The Influence of Immigration", "description": "Exploring how immigration contributed to the diversification of pickle relish recipes.", "path": "instruction/the-influence-of-immigration/the-influence-of-immigration.md", "type": "instruction", "state": "stub" },
+        { "title": "Modern Production Techniques", "description": "Discussing current methods used in the commercial production of pickle relish.", "path": "instruction/modern-production-techniques/modern-production-techniques.md", "type": "instruction", "state": "stub" },
+        { "title": "The Rise of Gourmet Relishes", "description": "Examining the trend towards artisanal and gourmet pickle relish varieties.", "path": "instruction/the-rise-of-gourmet-relishes/the-rise-of-gourmet-relishes.md", "type": "instruction", "state": "stub" },
+        { "title": "Module 2 Summary", "description": "Review of Key Concepts in Module 2", "path": "instruction/module-2-summary/module-2-summary.md", "type": "instruction", "state": "stub" }
+      ]
+    },
+    {
+      "title": "Ingredients and Preparation Techniques",
+      "description": "A deep dive into the various ingredients used in pickle relish and the techniques involved in its preparation.",
+      "topics": [
+        { "title": "Cucumber Varieties", "description": "Exploring different types of cucumbers suitable for pickling and relish making.", "path": "instruction/cucumber-varieties/cucumber-varieties.md", "type": "instruction", "state": "stub" },
+        { "title": "Vinegar Types", "description": "Discussing the role of vinegar in pickling and the different types available.", "path": "instruction/vinegar-types/vinegar-types.md", "type": "instruction", "state": "stub" },
+        { "title": "Salt and Brining", "description": "Understanding the importance of salt and brining in the pickling process.", "path": "instruction/salt-and-brining/salt-and-brining.md", "type": "instruction", "state": "stub" },
+        { "title": "Sugar and Sweeteners", "description": "Exploring the use of sugar and other sweeteners in pickle relish recipes.", "path": "instruction/sugar-and-sweeteners/sugar-and-sweeteners.md", "type": "instruction", "state": "stub" },
+        { "title": "Spices and Herbs", "description": "Examining the various spices and herbs used to flavor pickle relish.", "path": "instruction/spices-and-herbs/spices-and-herbs.md", "type": "instruction", "state": "stub" },
+        { "title": "Vegetable Preparation", "description": "Techniques for preparing vegetables for pickle relish, including chopping and dicing.", "path": "instruction/vegetable-preparation/vegetable-preparation.md", "type": "instruction", "state": "stub" },
+        { "title": "Brining Process", "description": "A detailed explanation of the brining process and its effect on the final product.", "path": "instruction/brining-process/brining-process.md", "type": "instruction", "state": "stub" },
+        { "title": "Cooking and Simmering", "description": "Discussing the cooking and simmering techniques used to develop flavor in pickle relish.", "path": "instruction/cooking-and-simmering/cooking-and-simmering.md", "type": "instruction", "state": "stub" },
+        { "title": "Sterilization and Canning", "description": "Understanding the importance of sterilization and proper canning techniques.", "path": "instruction/sterilization-and-canning/sterilization-and-canning.md", "type": "instruction", "state": "stub" },
+        { "title": "Troubleshooting Common Issues", "description": "Addressing common problems encountered during pickle relish preparation.", "path": "instruction/troubleshooting-common-issues/troubleshooting-common-issues.md", "type": "instruction", "state": "stub" },
+        { "title": "Module 3 Summary", "description": "Review of Key Concepts in Module 3", "path": "instruction/module-3-summary/module-3-summary.md", "type": "instruction", "state": "stub" },
+        { "title": "Recipe: Classic Sweet Relish", "description": "A step-by-step recipe for making classic sweet pickle relish.", "path": "instruction/recipe-classic-sweet-relish/recipe-classic-sweet-relish.md", "type": "instruction", "state": "stub" }
+      ]
+    },
+    {
+      "title": "Variations and Global Recipes",
+      "description": "Exploring different variations of pickle relish from around the world.",
+      "topics": [
+        { "title": "Spicy Relishes", "description": "Exploring recipes that incorporate spicy ingredients like peppers and chilies.", "path": "instruction/spicy-relishes/spicy-relishes.md", "type": "instruction", "state": "stub" },
+        { "title": "Sweet and Sour Relishes", "description": "Analyzing recipes that balance sweet and sour flavors.", "path": "instruction/sweet-and-sour-relishes/sweet-and-sour-relishes.md", "type": "instruction", "state": "stub" },
+        { "title": "Relishes with Fruits", "description": "Investigating recipes that incorporate fruits like apples, peaches, and cranberries.", "path": "instruction/relishes-with-fruits/relishes-with-fruits.md", "type": "instruction", "state": "stub" },
+        { "title": "Vegetable-Based Relishes", "description": "Exploring recipes that utilize a variety of vegetables beyond cucumbers.", "path": "instruction/vegetable-based-relishes/vegetable-based-relishes.md", "type": "instruction", "state": "stub" },
+        { "title": "Indian Relishes (Achar)", "description": "Discussing the unique characteristics of Indian achar and its preparation.", "path": "instruction/indian-relishes-achar/indian-relishes-achar.md", "type": "instruction", "state": "stub" },
+        { "title": "Korean Pickled Vegetables (Kimchi)", "description": "Exploring the world of kimchi and its variations.", "path": "instruction/korean-pickled-vegetables-kimchi/korean-pickled-vegetables-kimchi.md", "type": "instruction", "state": "stub" },
+        { "title": "German Sauerkraut", "description": "Examining the history and preparation of German sauerkraut.", "path": "instruction/german-sauerkraut/german-sauerkraut.md", "type": "instruction", "state": "stub" },
+        { "title": "Mediterranean Pickled Vegetables", "description": "Discussing the diverse range of pickled vegetables found in Mediterranean cuisine.", "path": "instruction/mediterranean-pickled-vegetables/mediterranean-pickled-vegetables.md", "type": "instruction", "state": "stub" },
+        { "title": "Southeast Asian Pickles", "description": "Exploring the unique pickling traditions of Southeast Asia.", "path": "instruction/southeast-asian-pickles/southeast-asian-pickles.md", "type": "instruction", "state": "stub" },
+        { "title": "Fusion Relish Recipes", "description": "Creating innovative relish recipes that blend different culinary traditions.", "path": "instruction/fusion-relish-recipes/fusion-relish-recipes.md", "type": "instruction", "state": "stub" },
+        { "title": "Module 4 Summary", "description": "Review of Key Concepts in Module 4", "path": "instruction/module-4-summary/module-4-summary.md", "type": "instruction", "state": "stub" },
+        { "title": "Recipe: Corn Relish", "description": "A step-by-step recipe for making delicious corn relish.", "path": "instruction/recipe-corn-relish/recipe-corn-relish.md", "type": "instruction", "state": "stub" }
+      ]
+    },
+    {
+      "title": "Pairing Pickle Relish with Food",
+      "description": "Understanding how to pair pickle relish with different types of dishes.",
+      "topics": [
+        { "title": "Relish with Sandwiches and Burgers", "description": "Exploring classic and creative relish pairings for sandwiches and burgers.", "path": "instruction/relish-with-sandwiches-and-burgers/relish-with-sandwiches-and-burgers.md", "type": "instruction", "state": "stub" },
+        { "title": "Relish with Grilled Meats", "description": "Discussing how relish can complement grilled meats like chicken, beef, and pork.", "path": "instruction/relish-with-grilled-meats/relish-with-grilled-meats.md", "type": "instruction", "state": "stub" },
+        { "title": "Relish with Seafood", "description": "Exploring relish pairings for seafood dishes like fish tacos and grilled shrimp.", "path": "instruction/relish-with-seafood/relish-with-seafood.md", "type": "instruction", "state": "stub" },
+        { "title": "Relish with Vegetarian Dishes", "description": "Investigating how relish can enhance vegetarian dishes like veggie burgers and salads.", "path": "instruction/relish-with-vegetarian-dishes/relish-with-vegetarian-dishes.md", "type": "instruction", "state": "stub" },
+        { "title": "Relish as a Topping", "description": "Exploring the use of relish as a topping for tacos, nachos, and baked potatoes.", "path": "instruction/relish-as-a-topping/relish-as-a-topping.md", "type": "instruction", "state": "stub" },
+        { "title": "Relish in Dips and Spreads", "description": "Discussing how relish can be incorporated into dips and spreads.", "path": "instruction/relish-in-dips-and-spreads/relish-in-dips-and-spreads.md", "type": "instruction", "state": "stub" },
+        { "title": "Relish with Cheese and Charcuterie", "description": "Pairing relish with different types of cheeses and charcuterie boards.", "path": "instruction/relish-with-cheese-and-charcuterie/relish-with-cheese-and-charcuterie.md", "type": "instruction", "state": "stub" },
+        { "title": "Relish in Salads", "description": "Exploring how relish can add flavor and texture to salads.", "path": "instruction/relish-in-salads/relish-in-salads.md", "type": "instruction", "state": "stub" },
+        { "title": "Relish in Grain Bowls", "description": "Using relish to enhance grain bowls and other similar dishes.", "path": "instruction/relish-in-grain-bowls/relish-in-grain-bowls.md", "type": "instruction", "state": "stub" },
+        { "title": "Creative Relish Pairings", "description": "Encouraging experimentation with unconventional relish pairings.", "path": "instruction/creative-relish-pairings/creative-relish-pairings.md", "type": "instruction", "state": "stub" },
+        { "title": "Module 5 Summary", "description": "Review of Key Concepts in Module 5", "path": "instruction/module-5-summary/module-5-summary.md", "type": "instruction", "state": "stub" },
+        { "title": "Recipe: Relish Topped Hot Dogs", "description": "A recipe for gourmet hot dogs featuring homemade relish.", "path": "instruction/recipe-relish-topped-hot-dogs/recipe-relish-topped-hot-dogs.md", "type": "instruction", "state": "stub" }
+      ]
+    },
+    {
+      "title": "The Future of Pickle Relish",
+      "description": "Exploring potential innovations and trends in the world of pickle relish.",
+      "topics": [
+        { "title": "Sustainable Sourcing", "description": "Discussing the importance of sustainable sourcing of ingredients for pickle relish.", "path": "instruction/sustainable-sourcing/sustainable-sourcing.md", "type": "instruction", "state": "stub" },
+        { "title": "Reducing Food Waste", "description": "Exploring how pickle relish can be used to reduce food waste.", "path": "instruction/reducing-food-waste/reducing-food-waste.md", "type": "instruction", "state": "stub" },
+        { "title": "Innovative Flavor Combinations", "description": "Encouraging the development of new and exciting flavor combinations for pickle relish.", "path": "instruction/innovative-flavor-combinations/innovative-flavor-combinations.md", "type": "instruction", "state": "stub" },
+        { "title": "Fermentation Techniques", "description": "Investigating the use of fermentation techniques in pickle relish production.", "path": "instruction/fermentation-techniques/fermentation-techniques.md", "type": "instruction", "state": "stub" },
+        { "title": "Healthier Relish Options", "description": "Exploring ways to create healthier versions of pickle relish with reduced sugar and sodium.", "path": "instruction/healthier-relish-options/healthier-relish-options.md", "type": "instruction", "state": "stub" },
+        { "title": "Relish in Molecular Gastronomy", "description": "Discussing the potential of pickle relish in molecular gastronomy.", "path": "instruction/relish-in-molecular-gastronomy/relish-in-molecular-gastronomy.md", "type": "instruction", "state": "stub" },
+        { "title": "Personalized Relish Recipes", "description": "Exploring the concept of personalized relish recipes tailored to individual preferences.", "path": "instruction/personalized-relish-recipes/personalized-relish-recipes.md", "type": "instruction", "state": "stub" },
+        { "title": "Relish in Food Technology", "description": "Examining the role of food technology in improving the production and preservation of pickle relish.", "path": "instruction/relish-in-food-technology/relish-in-food-technology.md", "type": "instruction", "state": "stub" },
+        { "title": "The Rise of Plant-Based Relishes", "description": "Exploring the development of relishes using only plant-based ingredients.", "path": "instruction/the-rise-of-plant-based-relishes/the-rise-of-plant-based-relishes.md", "type": "instruction", "state": "stub" },
+        { "title": "Relish and the Metaverse", "description": "Exploring how relish can be used in the metaverse as part of digital food experiences.", "path": "instruction/relish-and-the-metaverse/relish-and-the-metaverse.md", "type": "instruction", "state": "stub" },
+        { "title": "Module 6 Summary", "description": "Review of Key Concepts in Module 6", "path": "instruction/module-6-summary/module-6-summary.md", "type": "instruction", "state": "stub" },
+        { "title": "Recipe: Fermented Relish", "description": "A recipe for making fermented pickle relish.", "path": "instruction/recipe-fermented-relish/recipe-fermented-relish.md", "type": "instruction", "state": "stub" }
+      ]
+    },
+    {
+      "title": "Pickle Relish Business and Marketing",
+      "description": "Guidance on starting and marketing a pickle relish business.",
+      "topics": [
+        { "title": "Market Research", "description": "Conducting market research to identify target audiences and market trends.", "path": "instruction/market-research/market-research.md", "type": "instruction", "state": "stub" },
+        { "title": "Business Plan Development", "description": "Creating a comprehensive business plan for a pickle relish company.", "path": "instruction/business-plan-development/business-plan-development.md", "type": "instruction", "state": "stub" },
+        { "title": "Branding and Packaging", "description": "Developing a strong brand identity and attractive packaging for pickle relish products.", "path": "instruction/branding-and-packaging/branding-and-packaging.md", "type": "instruction", "state": "stub" },
+        { "title": "Pricing Strategies", "description": "Determining optimal pricing strategies for pickle relish products.", "path": "instruction/pricing-strategies/pricing-strategies.md", "type": "instruction", "state": "stub" },
+        { "title": "Distribution Channels", "description": "Exploring different distribution channels for pickle relish products.", "path": "instruction/distribution-channels/distribution-channels.md", "type": "instruction", "state": "stub" },
+        { "title": "Marketing and Advertising", "description": "Developing effective marketing and advertising campaigns for pickle relish.", "path": "instruction/marketing-and-advertising/marketing-and-advertising.md", "type": "instruction", "state": "stub" },
+        { "title": "Online Sales and E-commerce", "description": "Setting up an online store and managing e-commerce operations.", "path": "instruction/online-sales-and-e-commerce/online-sales-and-e-commerce.md", "type": "instruction", "state": "stub" },
+        { "title": "Food Safety Regulations", "description": "Understanding and complying with food safety regulations for pickle relish production.", "path": "instruction/food-safety-regulations/food-safety-regulations.md", "type": "instruction", "state": "stub" },
+        { "title": "Scaling Production", "description": "Strategies for scaling up pickle relish production to meet increasing demand.", "path": "instruction/scaling-production/scaling-production.md", "type": "instruction", "state": "stub" },
+        { "title": "Financial Management", "description": "Managing the finances of a pickle relish business effectively.", "path": "instruction/financial-management/financial-management.md", "type": "instruction", "state": "stub" },
+        { "title": "Module 7 Summary", "description": "Review of Key Concepts in Module 7", "path": "instruction/module-7-summary/module-7-summary.md", "type": "instruction", "state": "stub" },
+        { "title": "Interview: Pickle Relish Entrepreneur", "description": "Interview with a successful pickle relish entrepreneur.", "path": "instruction/interview-pickle-relish-entrepreneur/interview-pickle-relish-entrepreneur.md", "type": "instruction", "state": "stub" }
+      ]
+    },
+    {
+      "title": "Pickle Relish Capstone Project",
+      "description": "A culminating project where learners create their own unique pickle relish recipe and business plan.",
+      "topics": [
+        { "title": "Project Overview", "description": "Introduction to the capstone project and its objectives.", "path": "instruction/project-overview/project-overview.md", "type": "instruction", "state": "stub" },
+        { "title": "Recipe Development", "description": "Developing a unique and innovative pickle relish recipe.", "path": "instruction/recipe-development/recipe-development.md", "type": "instruction", "state": "stub" },
+        { "title": "Ingredient Sourcing Plan", "description": "Identifying and sourcing high-quality ingredients for the recipe.", "path": "instruction/ingredient-sourcing-plan/ingredient-sourcing-plan.md", "type": "instruction", "state": "stub" },
+        { "title": "Production Process Outline", "description": "Outlining the production process for the pickle relish.", "path": "instruction/production-process-outline/production-process-outline.md", "type": "instruction", "state": "stub" },
+        { "title": "Packaging Design", "description": "Designing attractive and functional packaging for the pickle relish.", "path": "instruction/packaging-design/packaging-design.md", "type": "instruction", "state": "stub" },
+        { "title": "Business Plan Creation", "description": "Creating a comprehensive business plan for marketing and selling the relish.", "path": "instruction/business-plan-creation/business-plan-creation.md", "type": "instruction", "state": "stub" },
+        { "title": "Target Audience Analysis", "description": "Analyzing the target audience for the pickle relish.", "path": "instruction/target-audience-analysis/target-audience-analysis.md", "type": "instruction", "state": "stub" },
+        { "title": "Marketing Strategy Development", "description": "Developing a marketing strategy to reach the target audience.", "path": "instruction/marketing-strategy-development/marketing-strategy-development.md", "type": "instruction", "state": "stub" },
+        { "title": "Financial Projections", "description": "Creating financial projections for the pickle relish business.", "path": "instruction/financial-projections/financial-projections.md", "type": "instruction", "state": "stub" },
+        { "title": "Project Presentation", "description": "Preparing a presentation to showcase the pickle relish recipe and business plan.", "path": "instruction/project-presentation/project-presentation.md", "type": "instruction", "state": "stub" },
+        { "title": "Capstone Project Review", "description": "Review of Key Concepts in the Capstone Project", "path": "instruction/capstone-project-review/capstone-project-review.md", "type": "instruction", "state": "stub" },
+        { "title": "Final Project Submission", "description": "Submitting the completed capstone project.", "path": "instruction/final-project-submission/final-project-submission.md", "type": "instruction", "state": "stub" }
+      ]
+    }
+  ]
+}
